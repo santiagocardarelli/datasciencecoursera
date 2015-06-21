@@ -33,7 +33,7 @@ The raw data sets are processed with the script run_analysis.R script to create 
 * Data is filtered in order to have only the mean() and std() measurements.
 * Activity Labels are added to the data set.
 * Appropriately labels with descriptive variable names are added to the data set:
-"^t" by "time"
+** "^t" by "time"
 "^f" by "frequency"
 "Acc" by "Accelerometer"
 "Gyro" by "Gyroscope"
